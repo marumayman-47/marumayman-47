@@ -42,4 +42,4 @@
 
 ### 🤝 Let's Connect
 
-Open to full-stack / backend (Laravel) opportunities. Reach me on [LinkedIn]([YOUR-LINKEDIN-URL](https://www.linkedin.com/feed/)) or [email](mailto:mariam.meligy02@gmail.com).
+Open to full-stack / backend (Laravel) opportunities. Reach me on [LinkedIn](mailto:https://www.linkedin.com/in/mariam-aymann007/?isSelfProfile=true) or [email](mailto:mariam.meligy02@gmail.com).
